@@ -7,6 +7,7 @@ Organizer is a Qt lightweight personal information manager.
 It is maintained by the LXQt project but can be used independently from this
 desktop environment.
 
+![screenshot](./screenshot1.png)
 
 ### Compiling source code
 
